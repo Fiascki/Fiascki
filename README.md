@@ -1,4 +1,4 @@
-  ## Olá! Eu sou o Miguel Fiaschi 😁
+  ## 😁 Olá! Eu sou o Miguel Fiaschi 😁
 
 - 🔭 Estudante de Programação.
 - 🦾 Projetos de Análise de Dados e Automações de Tarefas.
